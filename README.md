@@ -6,5 +6,5 @@ I'm a beginner in Javascript and with the most experience and focus on the follo
 
 ## My main project 🦊
 
-• [Foxxie](https://github.com/Foxxiebot) - *A Smort butler for your server.*
+• [Foxxie](https://github.com/Ruffpuff1/Foxxie) - *A Smort butler for your server.*
 *Foxxie is a Discord bot focused on Utility and Moderation executed in a way that is clean and professional looking..*
