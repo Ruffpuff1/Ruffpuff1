@@ -1,9 +1,3 @@
-## Knowledge 🫖
-
-I'm a beginner in Javascript and with the most experience and focus on the following:
-
-[Javascript](https://www.javascript.com/), [NodeJS](https://nodejs.org/), [Quick.db](https://quickdb.js.org), [Moment.js](https://momentjs.com) [MongoDB](https://www.mongodb.com/)
-
 ## My main project 🦊
 
 • [Foxxie](https://github.com/Ruffpuff1/Foxxie) - *A Smort butler for your server.*
