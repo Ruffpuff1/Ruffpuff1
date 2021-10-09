@@ -1,6 +1,8 @@
-## Projects I work on 🦊
+### Projects I work on
 
-• [Foxxie](https://discord.com/api/oauth2/authorize?client_id=812546582531801118&permissions=8&scope=bot) - *A Smort butler for your server.*   
+🦊 [Foxxie](https://github.com/FoxxieBot/Foxxie) - **A Smort butler for your server.**<br>
 *Foxxie is a Discord bot focused on Utility and Moderation executed in a way that is clean and professional..*  
 
-Discord: *Ruffpuff#0017*
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruffpuff1&layout=compact&theme=material-palenight"/>
+
+Discord: *[Ruffpuff#0017](https://ruff.cafe/community)*
