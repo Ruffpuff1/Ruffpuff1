@@ -6,3 +6,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruffpuff1&layout=compact&theme=material-palenight"/>
 
 Discord: *[Ruffpuff#0017](https://ruff.cafe/community)*
+
+*Profile picture by [@selpuku](https://www.instagram.com/p/CPudKjcLzD-/) on Instagram*
