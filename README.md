@@ -26,6 +26,7 @@ Slowly building up experience with different things 😎 Right now my go to is [
 <img align="left" src="https://img.shields.io/badge/CSS3-010a0f?style=for-the-badge&logo=css3"/>
 <img align="left" src="https://img.shields.io/badge/Node.js-010a0f?style=for-the-badge&logo=nodedotjs"/>
 <img align="left" src="https://img.shields.io/badge/npm-010a0f?style=for-the-badge&logo=npm&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/SQLite-010a0f?style=for-the-badge&logo=sqlite&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/MongoDB-010a0f?style=for-the-badge&logo=mongodb"/>
 <br/><br/>
 
