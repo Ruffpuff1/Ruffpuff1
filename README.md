@@ -18,17 +18,15 @@ How to reach me and contacts n stuff
 - [`Reeseharlak5@gmail.com`] - Email
 
 ### 🕯 Stuff I know
-Slowly building up experience with different things 😎 Right now my go to is [`Javascript`].
 
 <img align="left" src="https://img.shields.io/badge/-Javascript-100e02?logo=javascript&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-Typescript-010a0f?logo=typescript&style=for-the-badge"/>
-<img align="left" src="https://img.shields.io/badge/HTML5-010a0f?style=for-the-badge&logo=html5"/>
-<img align="left" src="https://img.shields.io/badge/CSS3-010a0f?style=for-the-badge&logo=css3"/>
 <img align="left" src="https://img.shields.io/badge/Node.js-010a0f?style=for-the-badge&logo=nodedotjs"/>
-<img align="left" src="https://img.shields.io/badge/npm-010a0f?style=for-the-badge&logo=npm&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/SQLite-010a0f?style=for-the-badge&logo=sqlite&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/MongoDB-010a0f?style=for-the-badge&logo=mongodb"/>
 <br/><br/>
+
+Slowly building up experience with different things 😎 Right now my go to is [`Javascript`].
+<br/>
 
 ### ✨ Other stuff
 
