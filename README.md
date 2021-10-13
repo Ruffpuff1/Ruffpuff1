@@ -8,13 +8,13 @@ Hallo, I'm Reese or Ruffpuff and I make things on the internet.
 I work on a small amount of projects but they're super cool.
 
 - [`Foxxie`] - A super smart moderation bot for your [`Discord`] server.
+- [`Ruff.cafe`] - Tiny website that links to my social medias.
 
 ### 🌃 Contact: 
 How to reach me and contacts n stuff
 
 - [`Ruffpuff#0017`] - Discord
 - [`Ruffpuff29`] - Twitter
-- [`Ruff.cafe`] - Website
 - [`Reeseharlak5@gmail.com`] - Email
 
 ### 🕯 Stuff I know
