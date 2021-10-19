@@ -19,15 +19,19 @@ How to reach me and contacts n stuff
 
 ### 🕯 Stuff I know
 
-<img align="left" src="https://img.shields.io/badge/-Javascript-100e02?logo=javascript&style=for-the-badge"/>
-<img align="left" src="https://img.shields.io/badge/-Typescript-010a0f?logo=typescript&style=for-the-badge"/>
-<img align="left" src="https://img.shields.io/badge/Node.js-010a0f?style=for-the-badge&logo=nodedotjs"/>
-<img align="left" src="https://img.shields.io/badge/MongoDB-010a0f?style=for-the-badge&logo=mongodb"/>
-<br/><br/>
+[![](https://img.shields.io/badge/javascript%20-100e02?style=for-the-badge&logo=javascript)](https://www.javascript.com)
+[![](https://img.shields.io/badge/typescript%20-100e02?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org)
+[![](https://img.shields.io/badge/html5%20-100e02?style=for-the-badge&logo=html5)](https://html.spec.whatwg.org/multipage)
+[![](https://img.shields.io/badge/css3%20-100e02?style=for-the-badge&logo=css3&logoColor=blue)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![](https://img.shields.io/badge/node.js%20-100e02?style=for-the-badge&logo=node.js)](https://nodejs.org)
+[![](https://img.shields.io/badge/eslint%20-100e02?style=for-the-badge&logo=eslint&logoColor=purple)](https://eslint.org)
+[![](https://img.shields.io/badge/mongodb%20-100e02?style=for-the-badge&logo=mongodb)](https://www.mongodb.com)
+[![](https://img.shields.io/badge/-discord.js-100e02?logo=discord&style=for-the-badge)](https://discord.js.org)
 
 Slowly building up experience with different things 😎 Right now my go to is [`Javascript`].
 <br/>
 
+---
 ### ✨ Other stuff
 
 - *Profile picture by [`@selpuku`] on Instagram*
