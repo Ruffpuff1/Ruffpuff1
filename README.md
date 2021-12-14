@@ -32,9 +32,6 @@ Slowly building up experience with different things 😎 Right now my go to is [
 <br/>
 
 ---
-### ✨ Other stuff
-
-- *Profile picture by [`@selpuku`] on Instagram*
 
 <!----------------- LINKS --------------->
 
