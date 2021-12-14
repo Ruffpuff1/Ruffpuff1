@@ -8,7 +8,6 @@ Hallo, I'm Reese or Ruffpuff and I make things on the internet.
 I work on a small amount of projects but they're super cool.
 
 - [`Foxxie`] - A super smart moderation bot for your [`Discord`] server.
-- [`Ruff.cafe`] - Tiny website that links to my social medias.
 
 ### 🌃 Contact: 
 How to reach me and contacts n stuff
@@ -28,7 +27,7 @@ How to reach me and contacts n stuff
 [![](https://img.shields.io/badge/mongodb%20-100e02?style=for-the-badge&logo=mongodb)](https://www.mongodb.com)
 [![](https://img.shields.io/badge/-discord.js-100e02?logo=discord&style=for-the-badge)](https://discord.js.org)
 
-Slowly building up experience with different things 😎 Right now my go to is [`Javascript`].
+Slowly building up experience with different things 😎 Right now my go to is [`Typescript`].
 <br/>
 
 ---
