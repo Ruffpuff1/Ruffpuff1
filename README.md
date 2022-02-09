@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src='https://avatars.githubusercontent.com/u/73779441?v=4' width='140' height='140' />
+  <img src='https://ruff.cafe/cdn/ruffpuff.jpg' width='140' height='140' />
   <h1>Ruff ☕️</h1>
   <blockquote>Hallo, I'm Reese or Ruffpuff and I make things on the internet.</blockquote>
   
