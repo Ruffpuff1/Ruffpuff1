@@ -14,8 +14,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 35 hrs 57 mins
-
 TypeScript   30 hrs 48 mins  █████████████████████░░░░   84.03 % 
 JSON         2 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 JavaScript   1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
