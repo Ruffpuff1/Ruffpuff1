@@ -1,7 +1,7 @@
 <div align='center'>
   <img src='https://ruff.cafe/cdn/ruffpuff.jpg' width='140' height='140' />
   <h1>Ruff ☕️</h1>
-  <blockquote>Hallo, I'm Reese or Ruffpuff and I make things on the internet.</blockquote>
+  <blockquote>Hallo, I'm Reese or Ruffpuff.</blockquote>
   
   <br />
   
