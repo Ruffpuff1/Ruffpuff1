@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src='https://ruff.cafe/cdn/ruffpuff.jpg' width='140' height='140' />
+  <img src='https://cdn.ruffpuff.dev/ruffpuff.jpg' width='140' height='140' />
   <h1>Ruff ☕️</h1>
   <blockquote>Hallo, I'm Reese or Ruffpuff.</blockquote>
   
