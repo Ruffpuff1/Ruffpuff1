@@ -12,6 +12,12 @@
 
 <hr />
 
+<div align='right'>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/486396074282450946)](https://discord.com/users/486396074282450946)
+  
+  </div>
+
 <!--START_SECTION:waka-->
 
 ```text
