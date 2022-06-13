@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src='https://cdn.ruffpuff.dev/ruffpuff.jpg' width='140' height='140' />
+  <img src='https://cdn.ruffpuff.dev/reese.jpg' width='140' height='140' />
   <h1>Ruff ☕️</h1>
   <blockquote>Hallo, I'm Reese or Ruffpuff, I'm a sixteen year old who codes things you may find useful. I'm often making Discord bots, sleeping, or at a coffee shop.</blockquote>
   
