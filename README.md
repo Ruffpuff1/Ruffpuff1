@@ -15,8 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 4 mins    ███████████████████▓░░░░░   79.33 %
-C#           32 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
