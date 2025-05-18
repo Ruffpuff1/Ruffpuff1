@@ -1,7 +1,7 @@
 <div align='center'>
   <img src='https://avatars.githubusercontent.com/u/73779441?v=4' width='140' height='140' />
   <h1>Reese ☕️</h1>
-  <blockquote>coder, music nerd, and future archivist</blockquote>
+  <blockquote>music nerd and future archivist</blockquote>
   
   <br />
   
